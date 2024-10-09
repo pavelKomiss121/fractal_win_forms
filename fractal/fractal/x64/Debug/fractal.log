@@ -1,0 +1,43 @@
+﻿  MyForm.cpp
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm1.h(58,17): warning C4677: root: сигнатура члена, не являющегося частным, содержит частный тип сборки "fractal::TreeNode"
+  (компиляция исходного файла "MyForm.cpp")
+  C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm1.h(20,13):
+   см. объявление "fractal::TreeNode"
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(387,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(388,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(399,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(400,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(411,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(412,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(423,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(424,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(447,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(454,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.cpp(13,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm1.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\MyForm.h(59,1): warning C4715: fractal::SierpinskiSquare::getColor: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  fractal.vcxproj -> C:\Users\pavel\OneDrive\Рабочий стол\fractal\x64\Debug\fractal.exe

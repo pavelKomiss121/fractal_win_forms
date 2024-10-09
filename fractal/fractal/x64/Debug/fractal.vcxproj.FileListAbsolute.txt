@@ -1,0 +1,8 @@
+C:\labs\aisd\4 семестр\практика\fractal\fractal\x64\Debug\fractal.vcxproj.AssemblyReference.cache
+C:\labs\aisd\4 семестр\практика\fractal\fractal\x64\Debug\fractal.MyForm.resources
+C:\labs\aisd\4 семестр\практика\fractal\fractal\x64\Debug\fractal.vcxproj.GenerateResource.cache
+C:\labs\aisd\4 семестр\практика\fractal\fractal\x64\Debug\fractal.MyForm1.resources
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\fractal\x64\Debug\fractal.vcxproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\fractal\x64\Debug\fractal.MyForm.resources
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\fractal\x64\Debug\fractal.MyForm1.resources
+C:\Users\pavel\OneDrive\Рабочий стол\fractal\fractal\x64\Debug\fractal.vcxproj.GenerateResource.cache
